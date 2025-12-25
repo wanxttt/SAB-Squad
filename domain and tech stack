@@ -10,4 +10,14 @@ Tech Stack
 7.) Servo Motor 
 8.) HCSR-04 UltraSonic Sensor 
 
+Uses 
+
+HCSR-04  - We Have used HCSR-04 for detecting the object obstacle detetction
+if any obstacles has been found Then the robot will move slighlty backward 
+Have some turn then move forward 
+
+Motor Driver Shield for controlling the 4 different Motors
+
+Servo 
+
 

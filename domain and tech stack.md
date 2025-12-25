@@ -1,12 +1,12 @@
-#AiVa - Where AI Meets Human Care 
+# AiVa - Where AI Meets Human Care 
 
-##Domain
+## Domain
 
 We Have Chosen the Domain IOT and Smart Automation 
 
-##Tech Stack
+## Tech Stack
 
-Tech Stack
+Techenical Components Used
 
 1.) Robot Chasis 
 2.) 4 - DC motor 

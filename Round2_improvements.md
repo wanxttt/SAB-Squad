@@ -1,4 +1,4 @@
-📱 AiVa: The Next Generation (Round 2 Evolution)
+ AiVa: The Next Generation (Round 2 Evolution)
 For the next phase, we are moving beyond hardware to a Full-Stack Integrated Ecosystem. We are developing a dedicated mobile application designed to bridge the gap between the robot, the patient, and the caregiver.
 
 1.  Intelligent Restocking with AI Vision
@@ -18,5 +18,6 @@ Remote System Diagnostics: The app provides a "heartbeat" for the robot, confirm
 
  Strategic Impact
 This integrated app transforms AiVa into a fail-safe companion for elderly individuals, chronic disease patients, and differently-abled persons. By simplifying the restocking process and providing constant oversight, we significantly reduce the "caregiver burden" while maximizing patient safety.
+
 
 

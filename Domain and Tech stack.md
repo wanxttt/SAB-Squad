@@ -39,7 +39,7 @@ Techenical Components Used
 
 1.) HCSR-04 - We Have used HCSR-04 for detecting the object obstacle detetction
 if any obstacles has been found Then the robot will move slighlty backward 
-Have some turn then move forward 
+Have some turn then move forward.
 
 2.) Motor Driver Shield - for controlling the 4 different Motors
 

@@ -1,19 +1,21 @@
 # Domain and Tech Stack: AiVa Project
 
+## Domain
+
+We Have Chosen the Domain IOT and Smart Automation 
+
 ### Project Domain
 * **Primary Domain:** Healthcare Technology / Geriatric Care
 * **Sub-Domain:** Robotics and Artificial Intelligence (AI)
 * **Innovation:** Assistive IoT (Internet of Things)
 
+  
 ### Technical Stack
-* **Hardware:** Arduino/Raspberry Pi (Micro-controllers), RF/Ultrasonic Sensors, Motor Drivers.
+* **Hardware:** Arduino,Ultrasonic Sensors, Motor Drivers,four DC Motors.
 * **Software:** C++ / Python (Robot Logic), Mobile Application (Caregiver interface).
 * **Communication:** RF Signal Processing for patient homing/localization.
 * **Patent ID:** 202511095020 (Registered Innovation)# AiVa - Where AI Meets Human Care 
 
-## Domain
-
-We Have Chosen the Domain IOT and Smart Automation 
 
 ## Tech Stack
 

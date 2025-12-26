@@ -1,16 +1,22 @@
-# AiVi - Where AI Meets HumanCare
+📱 AiVa: The Next Generation (Round 2 Evolution)
+For the next phase, we are moving beyond hardware to a Full-Stack Integrated Ecosystem. We are developing a dedicated mobile application designed to bridge the gap between the robot, the patient, and the caregiver.
 
-## Improvement for Round 2:-
+1.  Intelligent Restocking with AI Vision
+Smart Medication Scanning: To eliminate manual entry errors, the app features an AI-powered camera scanner. When a caregiver takes a photo of a medicine strip or bottle, the app automatically identifies the medication name and dosage.
 
-We will make a full fleged mobile app which will be used for controlling and monitoring the medication robot. This app will show the feature of manual restock, where care taker or family person can add the medicines manually inside the app.
+Error-Free Manual Restock: By confirming the scanned data, caregivers can restock the robot’s inventory with a single tap, ensuring the digital log perfectly matches the physical supply.
 
-When the photo of medicine is taken and scanned, the app will scan the medicine and show the name of medicine. After that user can do manual restocking easily without getting confuse. This make the system more simple and reduce chances of wrong medicine entry.
+2. Caregiver Monitoring & Compliance
+Real-Time Inventory Tracking: The app maintains a live count of every pill. When supplies drop below a 3-day threshold, "Low Stock" push notifications are sent to the caregiver to prevent treatment interruptions.
 
-The app will also provide low stock alert, when medicine quantity become low then user will get notification so that restocking can be done on proper time. The app will also store previous medicine name which patient is taking, so history can be seen anytime for reference.
+Comprehensive Medication History: Every dose delivered by AiVa is logged. Caregivers can review historical data at any time to verify adherence or share reports with doctors during check-ups.
 
-Along with medicine features, the app will also show robot battery status, like how much battery robot have at that moment. If battery is going down, then alert will come so that robot can be charged and it will not stop suddenly.
+3.  System Health & Robotics Oversight
+Live Battery Analytics: Users can monitor the robot's power levels in real-time. If the battery falls below 15%, a "Critical Power" alert is triggered, ensuring the robot is returned to its charging station before it shuts down.
 
+Remote System Diagnostics: The app provides a "heartbeat" for the robot, confirming that sensors and motors are functioning correctly for the day's scheduled deliveries.
 
-Overall this mobile app is very helpful for medicine management, restocking process, patient medicine history and robot monitoring. This system is mainly useful for elderly people, chronic disease patient and differently abled persons, where regular medicine is very important
+ Strategic Impact
+This integrated app transforms AiVa into a fail-safe companion for elderly individuals, chronic disease patients, and differently-abled persons. By simplifying the restocking process and providing constant oversight, we significantly reduce the "caregiver burden" while maximizing patient safety.
 
 

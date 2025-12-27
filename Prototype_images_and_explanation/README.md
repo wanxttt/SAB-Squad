@@ -1,2 +1,1 @@
-These are the different views of the prototype 
-This Includes top VIew Diagonal View Front View and Side View 
+In Prototype images Folder There are differnt View of The Prototype 

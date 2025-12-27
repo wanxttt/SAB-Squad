@@ -1,6 +1,6 @@
 # AiVa - Where Ai Meets HumanCare
 
-## Background of Invention
+## Background of The Invention
 
 
 Medication non-adherence has become a major global healthcare challenge, particularly among elderly individuals and patients living with chronic illnesses. Many patients struggle to follow prescribed medication schedules due to forgetfulness, physical limitations, or lack of continuous supervision. As a result, missed or incorrect dosages often lead to health complications and increased medical costs.
@@ -13,5 +13,6 @@ The AIVa system is designed to address these limitations by offering a fully aut
 
 
 By combining automation, safety features, and ease of use, AIVa enhances medication adherence, improves patient independence, and reduces the burden on caregivers and healthcare professionals. This holistic approach makes the system more reliable, accessible, and suitable for real-world healthcare environments.
+
 
 

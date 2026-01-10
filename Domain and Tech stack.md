@@ -36,6 +36,8 @@ Techenical Components Used-:
 
 8.) HCSR-04 UltraSonic Sensor 
 
+9.) IR SENSOR - 3 
+
  Uses:
 
 1.) HCSR-04 - We Have used HCSR-04 for detecting the object obstacle detetction
